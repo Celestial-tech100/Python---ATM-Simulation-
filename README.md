@@ -128,7 +128,7 @@ atm-simulation-python/
 
 ### NON - GUI 
 
-![Basic ](screenshots/non-gui .png)
+![Basic](screenshots/non-gui.png)
 
 ### 🔑 Login
 
